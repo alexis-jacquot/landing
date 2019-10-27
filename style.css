@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Abel|Alegreya+Sans&display=swap");
+@import url("components/container.css");
+@import url("components/container2.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Abel', sans-serif;
+	font-size: 28px;
+	margin: 0px;
+	background-color: rgb(223, 255, 206);
+}
+h1, h2, h3 {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
